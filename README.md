@@ -1,4 +1,4 @@
-# Helpdesk-Home-Lab-Active-Directory-Account-Troubleshooting-GPO-Windows-Server-2022-
+# Helpdesk Home Lab - Active Directory Account Troubleshooting and GPO (Windows Server 2022)
 
 
 <h2>Description</h2>
