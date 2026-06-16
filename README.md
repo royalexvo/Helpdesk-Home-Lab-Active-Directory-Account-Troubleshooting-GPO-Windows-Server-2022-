@@ -45,11 +45,11 @@ This lab demonstrates common help desk tasks performed in an Active Directory en
 
 <p align="center">
 <b>Step 1 – Disable a Domain User Account</b><br/><br/>
-Open Active Directory Users and Computers, locate the user account, and disable the account:<br/>
+Open Active Directory Users and Computers on the Windows Server 2022 VM, locate the user account, and disable the account:<br/>
 <img src="INSERT_STEP_1_IMAGE_HERE" height="80%" width="80%" alt="Lab Steps"/>
 <br/><br/>
 <b>Step 2 – Test User Login</b><br/><br/>
-Attempt to log in to the Windows 11 workstation using the disabled domain account and verify access is denied:<br/>
+Attempt to log in to the Windows 11 workstation using the disabled domain account and verify access is denied. Make sure to sign out before testing to ensure that the test is valid:<br/>
 <img src="INSERT_STEP_2_IMAGE_HERE" height="80%" width="80%" alt="Lab Steps"/>
 <br/><br/>
 <b>Step 3 – Sign in as Local Administrator</b><br/><br/>
@@ -57,11 +57,11 @@ Log in using a local administrator account to perform troubleshooting tasks on t
 <img src="INSERT_STEP_3_IMAGE_HERE" height="80%" width="80%" alt="Lab Steps"/>
 <br/><br/>
 <b>Step 4 – Remove the User Profile</b><br/><br/>
-Open System Properties, navigate to User Profiles, and delete the user's profile from the workstation:<br/>
+Open System Properties, navigate to User Profiles, and delete the user's profile from the workstation. This simulates the same problem as a disabled user account:<br/>
 <img src="INSERT_STEP_4_IMAGE_HERE" height="80%" width="80%" alt="Lab Steps"/>
 <br/><br/>
 <b>Step 5 – Verify Account Restrictions</b><br/><br/>
-Attempt to sign in again with the disabled account and confirm the account cannot authenticate:<br/>
+Attempt to sign in again with the deleted account and confirm the account cannot authenticate:<br/>
 <img src="INSERT_STEP_5_IMAGE_HERE" height="80%" width="80%" alt="Lab Steps"/>
 <br/><br/>
 <b>Step 6 – Configure Login Hours</b><br/><br/>
