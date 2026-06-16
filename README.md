@@ -65,7 +65,7 @@ Attempt to sign in again with the deleted account and confirm the account cannot
 <img src="INSERT_STEP_5_IMAGE_HERE" height="80%" width="80%" alt="Lab Steps"/>
 <br/><br/>
 <b>Step 6 – Configure Login Hours</b><br/><br/>
-Modify the user's Logon Hours settings and test login restrictions during unauthorized times:<br/>
+Re-enable the user account and modify the user's Logon Hours settings and test login restrictions during unauthorized times:<br/>
 <img src="INSERT_STEP_6_IMAGE_HERE" height="80%" width="80%" alt="Lab Steps"/>
 <br/><br/>
 <b>Step 7 – Configure Account Expiration</b><br/><br/>
