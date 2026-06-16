@@ -54,7 +54,7 @@ Attempt to log in to the Windows 11 workstation using the disabled domain accoun
 <br/><br/>
 <b>Step 3 – Sign in as Local Administrator</b><br/><br/>
 Log in using a local administrator account to perform troubleshooting tasks on the workstation:<br/>
-<img src="https://github.com/royalexvo/Helpdesk-Home-Lab-Active-Directory-Account-Troubleshooting-GPO-Windows-Server-2022-/blob/main/3.png?raw=true" alt="Lab Steps"/>
+<img src="https://github.com/royalexvo/Helpdesk-Home-Lab-Active-Directory-Account-Troubleshooting-GPO-Windows-Server-2022-/blob/main/3.png?raw=true" height="80%" width="80%" alt="Lab Steps"/>
 <br/><br/>
 <b>Step 4 – Remove the User Profile</b><br/><br/>
 Open System Properties, navigate to User Profiles, and delete the user's profile from the workstation. This simulates the same problem as a disabled user account:<br/>
