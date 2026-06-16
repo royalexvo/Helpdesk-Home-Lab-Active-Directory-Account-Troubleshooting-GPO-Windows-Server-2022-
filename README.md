@@ -46,7 +46,7 @@ This lab demonstrates common help desk tasks performed in an Active Directory en
 <p align="center">
 <b>Step 1 – Disable a Domain User Account</b><br/><br/>
 Open Active Directory Users and Computers on the Windows Server 2022 VM, locate the user account, and disable the account:<br/>
-<img src="INSERT_STEP_1_IMAGE_HERE" height="80%" width="80%" alt="Lab Steps"/>
+<img src="https://github.com/royalexvo/Helpdesk-Home-Lab-Active-Directory-Account-Troubleshooting-GPO-Windows-Server-2022-/blob/main/1.png?raw=true" height="80%" width="80%" alt="Lab Steps"/>
 <br/><br/>
 <b>Step 2 – Test User Login</b><br/><br/>
 Attempt to log in to the Windows 11 workstation using the disabled domain account and verify access is denied. Make sure to sign out before testing to ensure that the test is valid:<br/>
